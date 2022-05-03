@@ -5,7 +5,7 @@
 - dime tu nombre 
 - una voz en silencio 
 - no game no life zero
-
+- correr o morir
 
 ## dime tu nombre
 es una pelicula de animacion bella, donde nos relata la historia de dos jovenes
