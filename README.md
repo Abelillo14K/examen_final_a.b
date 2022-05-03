@@ -11,7 +11,7 @@
 es una pelicula de animacion bella, donde nos relata la historia de dos jovenes
 que por razones que desconozco, intercambia cuerpos entre si, la diferencia es que uno vive en el presente
 y la otra vive en el pasado, entonces nuestros protragonistas trataran de saber por que pasa esto :sunglasses:
-![Imagen de la rueda](https://th.bing.com/th/id/OIP.Ss9Yt87woFUPM9ApCiFg0QHaE8?pid=ImgDet&rs=1)
+![Imagen de la rueda](https://th.bing.com/th/id/OIP.dEcEosX8RgiwnL3h0GwooAHaFO?pid=ImgDet&rs=1)
 
 ## una voz en silencio
 no muestra a una niña que se cambia de colegio pero ella tiene problemas auditivos, y por esta razon 
