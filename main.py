@@ -1,4 +1,8 @@
+print("Univercidad Rafael Landivar")
+print("primer año de la carrera, de ingenieria en sistemas")
 print("Nombre: Abel Alexander de Leon Lima")
+print("fecha de nacimiento: 9 de agosto 2003")
+print(" edad 18 años")
 print("codigo: 1572322")
 
 
