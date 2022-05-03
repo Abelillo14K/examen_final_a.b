@@ -20,7 +20,7 @@ nuestro prota le hace bullyng  :broken_heart: por sus problema al tal punto que 
 
 ## no game no life zero 
 nos muesstra un mundo debastado por batallas, donde distintas razas pellean para que su dios, obtenga el maximo rango, para que sea el dios sobre todos, asi que nuestro prota es un humano muy inteligente que tratara de sobrevivir y ayudar a todos para ganar esta batalla :smiley:
-![Imagen de la rueda](https://th.bing.com/th/id/OIP.WUfax-sNSgYzo-KnxFByiAHaEo?pid=ImgDet&rs=1)
+![Imagen de la rueda](https://sunlight-project.com/wp-content/uploads/2017/07/No-Game-No-Life-Zero-01.jpg)
 
 gracias por el apoyo de mi ingeniero, Miguel
 y mis amigo @Roi https://github.com/1Roy1
